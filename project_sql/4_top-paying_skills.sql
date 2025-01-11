@@ -17,7 +17,7 @@ GROUP BY
     skills 
 ORDER BY 
   AVG_salary DESC
-LIMIT 25;
+LIMIT 10;
 
 /*
 Insights: 

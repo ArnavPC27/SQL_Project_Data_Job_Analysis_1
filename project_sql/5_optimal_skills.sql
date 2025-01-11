@@ -48,7 +48,7 @@ FROM
 ORDER BY
 skill_demand DESC,
 AVG_salary DESC
-
+LIMIT 10
 
 
 
