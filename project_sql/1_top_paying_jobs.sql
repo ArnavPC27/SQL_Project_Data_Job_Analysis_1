@@ -18,4 +18,4 @@ lEFT JOIN company_dim on job_postings_fact.company_id= company_dim.company_id
 Where job_title_short ='Data Analyst' AND job_location = 'Anywhere' AND
     salary_year_avg IS NOT NULL
 ORDER BY salary_year_avg DESC
-LIMIT 10;
+LIMIT 5;

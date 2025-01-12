@@ -45,12 +45,16 @@ LIMIT 10;
 
 ## Top 5 Highest Paying Jobs
 
-| Rank | Job Title                        | Company Name                 | Salary (Yearly Avg) | Job Location | Posted Date           |
-|------|----------------------------------|------------------------------|---------------------|--------------|-----------------------|
-| 1    | Data Analyst                     | Mantys                       | ₹650,000.0          | Anywhere     | 2023-02-20 15:13:33  |
-| 2    | Director of Analytics            | Meta                         | ₹336,500.0          | Anywhere     | 2023-08-23 12:04:42  |
-| 3    | Associate Director- Data Insights| AT&T                         | ₹255,829.5          | Anywhere     | 2023-06-18 16:03:12  |
-| 4    | Data Analyst
+## Top Job Opportunities
+
+| Job ID   | Job Title                        | Company Name                 | Job Location | Schedule Type | Average Salary (Yearly) | Posted Date           |
+|----------|----------------------------------|------------------------------|--------------|---------------|--------------------------|-----------------------|
+| 226942   | Data Analyst                     | Mantys                       | Anywhere     | Full-time     | ₹650,000.0              | 2023-02-20 15:13:33  |
+| 547382   | Director of Analytics            | Meta                         | Anywhere     | Full-time     | ₹336,500.0              | 2023-08-23 12:04:42  |
+| 552322   | Associate Director- Data Insights| AT&T                         | Anywhere     | Full-time     | ₹255,829.5              | 2023-06-18 16:03:12  |
+| 99305    | Data Analyst, Marketing          | Pinterest Job Advertisements | Anywhere     | Full-time     | ₹232,423.0              | 2023-12-05 20:00:40  |
+| 1021647  | Data Analyst (Hybrid/Remote)     | Uclahealthcareers            | Anywhere     | Full-time     | ₹217,000.0              | 2023-01-17 00:17:23  |
+
 
 
 
